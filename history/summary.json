@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "monitorss.carnivore.kr",
+    "url": "https://monitorss.carnivore.kr/",
+    "icon": "https://icons.duckduckgo.com/ip3/monitorss.carnivore.kr.ico",
+    "slug": "monitorss-carnivore-kr",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "go.carnivore.kr",
     "url": "https://go.carnivore.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/go.carnivore.kr.ico",
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "time": 212,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   }
 ]
