@@ -4,6 +4,8 @@ repo: status
 sites:
   - name: update.carnivore.kr
     url: https://update.carnivore.kr/
+  - name: monitorss.carnivore.kr
+    url: https://monitorss.carnivore.kr/    
   - name: go.carnivore.kr
     url: https://go.carnivore.kr/
   - name: share.carnivore.kr
