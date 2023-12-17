@@ -22,19 +22,19 @@
     "url": "https://monitorss.carnivore.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.carnivore.kr.ico",
     "slug": "monitorss-carnivore-kr",
-    "status": "down",
-    "uptime": "85.68%",
-    "uptimeDay": "65.59%",
-    "uptimeWeek": "85.68%",
-    "uptimeMonth": "85.68%",
-    "uptimeYear": "85.68%",
-    "time": 6835,
-    "timeDay": 14783,
-    "timeWeek": 6835,
-    "timeMonth": 6835,
-    "timeYear": 6835,
+    "status": "up",
+    "uptime": "85.55%",
+    "uptimeDay": "65.24%",
+    "uptimeWeek": "85.55%",
+    "uptimeMonth": "85.55%",
+    "uptimeYear": "85.55%",
+    "time": 5826,
+    "timeDay": 10116,
+    "timeWeek": 5826,
+    "timeMonth": 5826,
+    "timeYear": 5826,
     "dailyMinutesDown": {
-      "2023-12-17": 495
+      "2023-12-17": 500
     }
   },
   {
