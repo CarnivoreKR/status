@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.carnivore.kr.ico",
     "slug": "monitorss-carnivore-kr",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "98.78%",
     "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
     "time": 1515,
     "timeDay": 468,
     "timeWeek": 411,
@@ -80,9 +80,9 @@
     "url": "https://go.carnivore.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/go.carnivore.kr.ico",
     "slug": "go-carnivore-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 444,
     "timeMonth": 375,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "share.carnivore.kr",
