@@ -80,19 +80,19 @@
     "url": "https://go.carnivore.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/go.carnivore.kr.ico",
     "slug": "go-carnivore-kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 328,
-    "timeWeek": 444,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 371,
+    "timeDay": 288,
+    "timeWeek": 420,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 5
     }
   },
   {
