@@ -22,9 +22,9 @@
     "url": "https://monitorss.carnivore.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.carnivore.kr.ico",
     "slug": "monitorss-carnivore-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "98.77%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "98.68%",
@@ -34,6 +34,7 @@
     "timeMonth": 1487,
     "timeYear": 1487,
     "dailyMinutesDown": {
+      "2024-01-15": 0,
       "2024-01-14": 18,
       "2024-01-11": 69,
       "2023-12-17": 495
