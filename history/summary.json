@@ -4,7 +4,7 @@
     "url": "https://update.carnivore.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/update.carnivore.kr.ico",
     "slug": "update-carnivore-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,9 +13,11 @@
     "time": 729,
     "timeDay": 770,
     "timeWeek": 774,
-    "timeMonth": 729,
+    "timeMonth": 704,
     "timeYear": 729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 0
+    }
   },
   {
     "name": "monitorss.carnivore.kr",
@@ -23,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.carnivore.kr.ico",
     "slug": "monitorss-carnivore-kr",
     "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.71%",
     "time": 1458,
-    "timeDay": 429,
+    "timeDay": 345,
     "timeWeek": 409,
-    "timeMonth": 1458,
+    "timeMonth": 1481,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2024-01-15": 13,
       "2024-01-14": 18,
       "2024-01-11": 69,
       "2023-12-17": 495
@@ -88,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 309,
+    "timeDay": 369,
     "timeWeek": 365,
-    "timeMonth": 371,
+    "timeMonth": 374,
     "timeYear": 371,
     "dailyMinutesDown": {}
   },
@@ -108,7 +109,7 @@
     "time": 308,
     "timeDay": 388,
     "timeWeek": 311,
-    "timeMonth": 308,
+    "timeMonth": 314,
     "timeYear": 308,
     "dailyMinutesDown": {}
   }
