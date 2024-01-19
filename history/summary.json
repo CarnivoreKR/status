@@ -13,7 +13,7 @@
     "time": 1251,
     "timeDay": 712,
     "timeWeek": 3365,
-    "timeMonth": 1349,
+    "timeMonth": 1371,
     "timeYear": 1251,
     "dailyMinutesDown": {}
   },
@@ -22,16 +22,16 @@
     "url": "https://monitorss.carnivore.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.carnivore.kr.ico",
     "slug": "monitorss-carnivore-kr",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "91.46%",
+    "status": "down",
+    "uptime": "98.07%",
+    "uptimeDay": "92.80%",
     "uptimeWeek": "95.97%",
     "uptimeMonth": "98.92%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.07%",
     "time": 1151,
-    "timeDay": 369,
+    "timeDay": 393,
     "timeWeek": 379,
-    "timeMonth": 386,
+    "timeMonth": 383,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2024-01-19": 53,
@@ -56,7 +56,7 @@
     "time": 285,
     "timeDay": 254,
     "timeWeek": 210,
-    "timeMonth": 285,
+    "timeMonth": 286,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -74,7 +74,7 @@
     "time": 201,
     "timeDay": 244,
     "timeWeek": 193,
-    "timeMonth": 201,
+    "timeMonth": 199,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -92,7 +92,7 @@
     "time": 385,
     "timeDay": 244,
     "timeWeek": 404,
-    "timeMonth": 390,
+    "timeMonth": 391,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2024-01-17": 20
