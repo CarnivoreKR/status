@@ -1,7 +1,7 @@
 url: https://monitorss.carnivore.kr/
-status: up
-code: 200
-responseTime: 388
-lastUpdated: 2024-02-14T14:56:29.619Z
+status: down
+code: 500
+responseTime: 10534
+lastUpdated: 2024-02-14T22:23:57.284Z
 startTime: 2023-12-15T12:48:17.313Z
 generator: Upptime <https://github.com/upptime/upptime>
